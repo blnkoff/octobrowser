@@ -1,6 +1,6 @@
 [tool.poetry]
 name = 'octobrowser'
-version = '0.1.0'
+version = '0.1.0.alpha1.dev1'
 description = 'The package for interacting with API of anti-detect browser Octobrowser.'
 authors = ['Alexey  <axbelenkov@gmail.com>']
 license = 'MIT'
@@ -8,7 +8,7 @@ readme = 'README.md'
 repository = 'https://github.com/blnkoff/octobrowser'
 homepage = 'https://github.com/blnkoff/octobrowser'
 classifiers = [
-    'Development Status :: 2 - Pre-Alpha',
+    'Development Status :: 1 - Planning',
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Libraries :: Python Modules',
     'Programming Language :: Python :: 3.11',
